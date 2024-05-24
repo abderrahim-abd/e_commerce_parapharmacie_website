@@ -1,0 +1,9 @@
+api_platform:
+    title: WELCOME TO PARALGO API
+    version: 1.0.0
+    swagger:
+        api_keys:
+            JWT:
+                name: Authorization
+                type: header
+
